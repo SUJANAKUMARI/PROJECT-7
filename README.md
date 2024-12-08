@@ -117,3 +117,6 @@ The Data analysis and modelling was sucessfully done.
 
 ## Acknowledgment
 
+"I would like to express my sincere gratitude to my mentor Ms. Twinkle Baid for her valuable guidance, support, and expertise throughout my project on Pharmaceutical Sales forecasting, which helped me tackle complex challenges and refine my skills significantly."
+
+THANK YOU
