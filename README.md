@@ -86,28 +86,34 @@ Data Preprocessing for DL models using Tokenization
 ## 4. Machine Learning models for classifying Tweets data
 Machine Learning Models using different n-grams and both Bow and Tf-Idf and visualisation comparing there accuracy
 
-
+![7](https://github.com/user-attachments/assets/3fac2477-9a90-41c4-8eb9-ab29ca46a92d)
 
 ## Ml List
 The Best ML model trained as we can see above is Voting Classifer, whose report and confusion matrix is shown below
 
-Voting Classifier
-5. Deep Learning approach for classifying Tweets data
+![8](https://github.com/user-attachments/assets/53eba58c-9b65-417b-9dcd-6e82e0dca1e0)
+
+![9](https://github.com/user-attachments/assets/972f9a43-53fc-4ac7-810e-0266ed6bcf05)
+
+## 5. Deep Learning approach for classifying Tweets data
 Using Glove Word Embeddings of embedding dimension = 100 to get embedding matrix for our DL models
 For every DL model we create a function and use Keras-Tuner to tune the model
 Finally we choose Bidirectional LSTM for the Deployment
-6. Model Deployment
+
+## 6. Model Deployment
 Bidirectinal LSTM model obtained from Deep Learning approach is used for deployment
 Micro Web Framework Flask is used to create web app
-Heroku is used to deploy the our Web-app on https://disastertweetsdl.herokuapp.com/
 Deep Learning Web app working
 Deployment Demo
+![chrome_TaCrhUOsOR](https://github.com/user-attachments/assets/a545828a-d629-4dc2-b429-3a99b71033d8)
 
-Scope of Improvemment
+
+## Scope of Improvemment
 We can always use large dataset which covers almost every type of data for both machine learning and deep learning
 We can use the best pretrained models but they require a lot of computational power
-Also there are various ways to increase model accuracy like k-fold cross validation, different data preprocessing techniques better than used here
-Conclusion
-The Data analysis and modelling was sucessfully done, and the Deep Learning model was deployed on Heroku
 
-Please do ⭐ the repository, if it helped you in anyway.
+## Conclusion
+The Data analysis and modelling was sucessfully done.
+
+## Acknowledgment
+
